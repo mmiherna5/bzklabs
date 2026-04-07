@@ -21,18 +21,18 @@ $('#KIT-SOL-001').click(function(){
 });
 
 $('.logo').click(function(){
-    window.location.href='/index.html';
+    window.location.href='index.html';
 });
 
 $('.link#products-button').click(function(){
-    window.location.href='/index.html#Product-Section';
+    window.location.href='index.html#Product-Section';
 });
 
 $('.link#solutions-button').click(function(){
-    window.location.href='/index.html#Solution-Section';
+    window.location.href='index.html#Solution-Section';
 });
 
 $('.link#about-button').click(function(){
-    window.location.href='/index.html#AboutUs-Section';
+    window.location.href='index.html#AboutUs-Section';
 });
 
