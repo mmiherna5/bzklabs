@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="168.72662mm"
+   height="25.192072mm"
+   viewBox="0 0 168.72662 25.192072"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="mountains.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-9.8994949"
+     inkscape:cy="-149.90664"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.876741,-159.00433)">
+    <g
+       id="g3484">
+      <path
+         id="rect186-8"
+         style="fill:none;stroke:#343434;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -153.79125,47.872215 -13.14889,10.223279 10.52934,13.542075 -10.8444,23.677358 25.63957,12.167263 z m 12.70438,62.198735 -16.96412,29.62467 10.66411,6.42425 2.1e-4,31.06793 11.12726,-9e-5 -10.65598,16.86346 26.38769,16.67433 z"
+         transform="rotate(-78.45586)" />
+      <path
+         id="rect186-8-7"
+         style="fill:#343434;fill-opacity:1;stroke:#343434;stroke-width:2.52154;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 22.143351,160.51062 3.276803,7.11067 13.388847,-7.11067 z m 19.215882,0 17.645951,15.21716 11.100098,-15.21716 z m 45.815291,0 17.804596,15.07453 7.6755,-7.98763 27.25054,7.02645 4.81314,-13.51029 16.1246,15.76028 15.35668,-16.36334 z" />
+      <rect
+         style="fill:#343434;fill-opacity:1;stroke:none;stroke-width:9.29501;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3479"
+         width="168.72606"
+         height="1.6636162"
+         x="14.877299"
+         y="159.00433" />
+    </g>
+  </g>
+</svg>
