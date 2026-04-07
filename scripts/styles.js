@@ -17,7 +17,7 @@ $(window).scroll(function(){
 
 //Links for intruction manuals
 $('#KIT-SOL-001').click(function(){
-    window.open('/etc/instructions/instruction_KIT-SOL-001.pdf','_blank');
+    window.open('etc/instructions/instruction_KIT-SOL-001.pdf','_blank');
 });
 
 $('.logo').click(function(){
